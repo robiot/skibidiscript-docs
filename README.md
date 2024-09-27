@@ -8,7 +8,8 @@ npm run dev
 npm run build && npm run start
 
 <hr>
-## side notes left by/for developers:
+
+### side notes for developers:
 made with nextra - https://nextra.site/docs/docs-theme/start (for documentation)
 
 remember bout initing the project. as you can see (by the .gitignore), many folders have been removed 
